@@ -32,7 +32,7 @@ Me encuentro en proceso de aprendizaje continuo en herramientas de análisis de 
 
 ## 📂 Proyectos Destacados
 ![Dashboard Freelance Market](./dashboard-preview.jpg)
-### 📊 [Dashboard – Freelance Market Operations & Customer Loyalty](https://github.com/eimycubillos/dashboard-freelance-market)
+### 📊 [Dashboard – Freelance Market Operations & Customer Loyalty](dashboard-freelance-market)
 > Análisis comparativo del mercado freelance global con visualización de KPIs clave.
 
 - 📈 294K proyectos analizados · 3 plataformas · 7 regiones
