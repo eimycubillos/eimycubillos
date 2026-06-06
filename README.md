@@ -31,7 +31,7 @@ Me encuentro en proceso de aprendizaje continuo en herramientas de análisis de 
 <br/>
 
 ## 📂 Proyectos Destacados
-
+![Dashboard Freelance Market](./dashboard-preview.jpg)
 ### 📊 [Dashboard – Freelance Market Operations & Customer Loyalty]![Dashboard Freelance Market](./vista%20previa%20del%20panel%20de%20control.jpg)
 > Análisis comparativo del mercado freelance global con visualización de KPIs clave.
 
