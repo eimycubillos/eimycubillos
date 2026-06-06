@@ -48,9 +48,9 @@ Analizar el comportamiento del mercado freelance global para identificar patrone
 
 | Archivo | Descripción |
 |---|---|
-| `dashboard-freelance-market.pbix` | Archivo Power BI con el dashboard interactivo |
-| `dashboard-freelance-market.xlsx` | Base de datos y análisis en Excel |
-| `dashboard-preview.jpg` | Captura de pantalla del dashboard |
+| `dashboard-preview.jpg` | Captura del dashboard desarrollado en Power BI |
+
+> 💡 *Proyecto desarrollado en Power BI Desktop. Visualización disponible como imagen de referencia.*
 
 ---
 
