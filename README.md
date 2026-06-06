@@ -32,12 +32,12 @@ Me encuentro en proceso de aprendizaje continuo en herramientas de análisis de 
 
 ## 📂 Proyectos Destacados
 
-### 📊 Dashboard – Análisis de Plataformas Freelance
-> Análisis comparativo de las principales plataformas de trabajo freelance, con visualización de métricas clave para la toma de decisiones.
+### 📊 [Dashboard – Freelance Market Operations & Customer Loyalty](https://github.com/eimycubillos/dashboard-freelance-market)
+> Análisis comparativo del mercado freelance global con visualización de KPIs clave.
 
-- 🔍 Comparación de condiciones, comisiones y perfiles de usuario por plataforma
-- 📈 Dashboard interactivo con KPIs y filtros dinámicos
-- 🛠️ Herramientas: Excel / Power BI / Python *(en progreso)*
+- 📈 294K proyectos analizados · 3 plataformas · 7 regiones
+- 🔍 Rehire rate, client rating, duración y pagos por categoría
+- 🛠️ Excel Avanzado + Power BI
 
 <br/>
 
