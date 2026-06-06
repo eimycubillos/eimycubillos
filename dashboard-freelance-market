@@ -24,17 +24,10 @@ Analizar el comportamiento del mercado freelance global para identificar patrone
 
 ## 🔍 Análisis incluidos
 
-- **Rehire rate por categoría** – Categorías con mayor tasa de recontratación (Data Entry y Customer Support lideran con 46%)
+- **Rehire rate por categoría** – Data Entry y Customer Support lideran con 46%
 - **Duración por región** – Canadá y Asia presentan los proyectos de mayor duración (~5,4 y 5,2 mil días)
 - **Rating de clientes más leales** – Web Development lidera con 4,1
-- **Categorías mejor pagadas** – Web Development encabeza el ranking de pagos más altos (47)
-
----
-
-## 🛠️ Herramientas utilizadas
-
-![Excel](https://img.shields.io/badge/Excel-Avanzado-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Básico-F2C811?style=flat&logo=powerbi&logoColor=black)
+- **Categorías mejor pagadas** – Web Development encabeza el ranking (47)
 
 ---
 
@@ -50,7 +43,14 @@ Analizar el comportamiento del mercado freelance global para identificar patrone
 |---|---|
 | `dashboard-preview.jpg` | Captura del dashboard desarrollado en Power BI |
 
-> 💡 *Proyecto desarrollado en Power BI Desktop. Visualización disponible como imagen de referencia.*
+> 💡 *Proyecto desarrollado en Power BI Desktop + Excel. Visualización disponible como imagen de referencia.*
+
+---
+
+## 🛠️ Herramientas utilizadas
+
+![Excel](https://img.shields.io/badge/Excel-Avanzado-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Básico-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
 
